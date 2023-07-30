@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Turcu Ciprian</h1>
 <h3 align="center">A curious and hardworking CS student @UBBCluj who started his professional path as a back end developer @METRO.digital</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ciprianturcu&label=Profile%20views&color=81cefe&style=plastic" alt="ciprianturcu" /> </p>
-
 - 🔭 I’m currently working on **leetcode and codewars problems**
 
 - 🌱 I’m currently learning **Microservices, Java, Spring, Docker, Kubernetes**
