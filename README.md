@@ -51,4 +51,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ciprianturcu&show_icons=true&text_color=ffffff&hide_border=true&locale=en" alt="ciprianturcu" /></p>
+<p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iuliagroza&show_icons=true&theme=dracula" alt="GitHub Stats for iuliagroza" width="700"></p>
