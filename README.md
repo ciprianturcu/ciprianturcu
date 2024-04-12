@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Turcu Ciprian</h1>
 <h3 align="center">A curious and hardworking CS student @UBBCluj who started his professional path as a back end developer @METRO.digital</h3>
 
-- 🔭 I’m currently working on **leetcode and codewars problems**
+- 🔭 I’m currently working on **my thesis**
 
 - 🌱 I’m currently learning **Microservices, Java, Spring, Docker, Kubernetes**
 
